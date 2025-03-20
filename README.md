@@ -28,7 +28,7 @@ A Python-based CLI tool for capturing, analyzing, and filtering network packets 
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/network-packet-analyzer.git
+git clone https://github.com/NeospectraX/PRODIGY_CS_05.git
 cd network-packet-analyzer
 ```
 
