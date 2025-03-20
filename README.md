@@ -123,7 +123,7 @@ Save capture summary report? (y/n): y
 ---
 
 ## 📝 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **Unlicense license**.
 
 💬 _Developed by Ashok (Nickname: NeospectraX). Contributions are welcome!_
 
